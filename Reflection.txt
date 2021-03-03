@@ -1,0 +1,2 @@
+Some steps in the guide may be not so clear .
+For example, "Find	the	file	Practical4/Introductions.txt", I don not know where I should open the file, git or just open the file in my desktop.
