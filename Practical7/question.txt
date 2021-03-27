@@ -1,0 +1,3 @@
+question：we wonder how total cases and new cases changed in China
+line:66
+We found that at first, the new cases in China in quite small, but several days later , the new cases become quite large. Luckily, many days later , new cases became small again. The total cases changed in a S shanpe.  And the number of new cases changed like a small mountain.
