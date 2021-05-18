@@ -1,0 +1,13 @@
+The percentage of identical amino acid : 89.63963963963964% .
+The percentage of different amino acid : 10.36036036036036% .
+Totalscore: 1091 .
+The percentage of identical amino acid : 5.405405405405405% .
+The percentage of different amino acid : 94.5945945945946% .
+Totalscore: -250 .
+The percentage of identical amino acid : 5.8558558558558556% .
+The percentage of different amino acid : 94.14414414414415% .
+Totalscore: -250 .
+
+
+
+The precentage identity of human gene and mice gene is about 89% with a high total score,which is much higher than the comparisons with random sequence. Thus, it illustrate the similarity between human and mice, which may serve as an evidence that human and mice as mammals have the same ancestors.
