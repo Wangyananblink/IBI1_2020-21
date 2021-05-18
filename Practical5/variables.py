@@ -1,19 +1,24 @@
 a = 20102
 b = 190784
-c = 100221
+c = 100321
 d = abs(a-c)
-
-if d >=e:
-        print("d is big")
+e = abs(a-b)
+if d>e:
+    print("d>e")
 else:
-        print("d is not big")
+    print("d<=e")
 
-x = True
-y = False
-z = (x and not y) or (y and not x)
-print(z)
-True
+#Use blooean
+X = True
+Y = False
+Z = (X and not Y) or (Y and not X)
+if Z == True:
+    print("Ture")
+else:
+    print("False")
 
-w = (x !=y)
-print(w)
-True
+W = (X!=Y)
+if Z == W:
+    print("Z == W")
+else:
+    print("Z !=W")

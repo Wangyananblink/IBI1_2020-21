@@ -1,8 +1,9 @@
 # What does this piece of code do?
-# Answer: Let the code run several times until n is smaller than 51，we can get that n
+# Answer: After runing a few times, I found that the numbers were always less than 51, when I changed the signal "<" to ">" , they were always bigger than 50.
+# Code's function: Selects a random number between 1 and 100 until a number less than 50 is selected, which is then printed
 
 # Import libraries
-# randint allows drawing a random number, 
+# randint allows drawing a random number,
 # e.g. randint(1,5) draws a number between 1 and 5
 from random import randint
 
